@@ -1,5 +1,7 @@
 ﻿# multilockscreen
   
+***We have finally been merged with [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen)! Please follow us there for futher development***
+  
 [About](#about) [Features](#features) [Requirements](#requirements) [Install](#install) [Usage](#usage)
   
 ![multilockscreen](https://camo.githubusercontent.com/bd90f582f8fea8467dc59b8b9c5f154aa1dff00f/68747470733a2f2f692e696d6775722e636f6d2f4a5a6139644c432e706e67)
