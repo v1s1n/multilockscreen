@@ -25,6 +25,7 @@ Originally a fork of [betterlockscreen](https://github.com/pavanjadhaw/betterloc
 - [xrandr](https://www.x.org/) - Display info  
 - [xdpyinfo](https://www.x.org/) - Display info & HiDPI support
 - [feh](https://feh.finalrewind.org/) - Set wallpaper  
+- [bc](http://ftp.gnu.org/gnu/bc/) - Basic Calculator
   
 ### Install
 ##### Manual Installation
